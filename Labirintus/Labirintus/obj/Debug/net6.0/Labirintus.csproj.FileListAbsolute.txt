@@ -1,0 +1,17 @@
+/Users/ezy/Projects/C#/Labirintus/Labirintus/bin/Debug/net6.0/Labirintus
+/Users/ezy/Projects/C#/Labirintus/Labirintus/bin/Debug/net6.0/Labirintus.deps.json
+/Users/ezy/Projects/C#/Labirintus/Labirintus/bin/Debug/net6.0/Labirintus.runtimeconfig.json
+/Users/ezy/Projects/C#/Labirintus/Labirintus/bin/Debug/net6.0/Labirintus.dll
+/Users/ezy/Projects/C#/Labirintus/Labirintus/bin/Debug/net6.0/Labirintus.pdb
+/Users/ezy/Projects/C#/Labirintus/Labirintus/obj/Debug/net6.0/Labirintus.csproj.AssemblyReference.cache
+/Users/ezy/Projects/C#/Labirintus/Labirintus/obj/Debug/net6.0/Labirintus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ezy/Projects/C#/Labirintus/Labirintus/obj/Debug/net6.0/Labirintus.AssemblyInfoInputs.cache
+/Users/ezy/Projects/C#/Labirintus/Labirintus/obj/Debug/net6.0/Labirintus.AssemblyInfo.cs
+/Users/ezy/Projects/C#/Labirintus/Labirintus/obj/Debug/net6.0/Labirintus.csproj.CoreCompileInputs.cache
+/Users/ezy/Projects/C#/Labirintus/Labirintus/obj/Debug/net6.0/Labirintus.dll
+/Users/ezy/Projects/C#/Labirintus/Labirintus/obj/Debug/net6.0/refint/Labirintus.dll
+/Users/ezy/Projects/C#/Labirintus/Labirintus/obj/Debug/net6.0/Labirintus.pdb
+/Users/ezy/Projects/C#/Labirintus/Labirintus/obj/Debug/net6.0/Labirintus.genruntimeconfig.cache
+/Users/ezy/Projects/C#/Labirintus/Labirintus/obj/Debug/net6.0/ref/Labirintus.dll
+/Users/ezy/Projects/C#/Labirintus/Labirintus/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/ezy/Projects/C#/Labirintus/Labirintus/obj/Debug/net6.0/Labirintus.csproj.CopyComplete

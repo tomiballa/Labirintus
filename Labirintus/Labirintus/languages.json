@@ -1,0 +1,24 @@
+﻿{
+    "hu": {
+        "cant_exit": "Még nem léphetsz ki. Fedezz fel minden szobát!",
+        "win": "Győztél! Kilépés 3 másodperc múlva.",
+        "map_name": "Pálya neve:",
+        "map_size": "mérete:",
+        "col": "oszlop",
+        "row": "sor",
+        "move_count": "Lépések száma:",
+        "disc_rooms": "Felfedezett termek száma:",
+        "valid_moves": "További lépési lehetőségek:"
+    },
+    "en": {
+      "cant_exit": "You cannot exit yet. Explore all rooms",
+      "win": "You win! The program will exit in 3 seconds.",
+      "map_name": "Map name:",
+      "map_size": "size:",
+      "col": "column",
+      "row": "row",
+      "move_count": "Number of moves:",
+      "disc_rooms": "Number of discovered rooms:",
+      "valid_moves": "Additional moves:"
+    }
+}
