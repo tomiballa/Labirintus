@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Diagnostics;
 using System.Globalization;
 using System.Runtime.InteropServices;
@@ -76,16 +76,16 @@ namespace Labirintus
                     case ConsoleKey.Escape:
                         Environment.Exit(0);
                         return;
-                    case ConsoleKey.UpArrow:
+                    case ConsoleKey.W or ConsoleKey.UpArrow:
                         tryMove(1);
                         break;
-                    case ConsoleKey.DownArrow:
+                    case ConsoleKey.S or ConsoleKey.DownArrow:
                         tryMove(3);
                         break;
-                    case ConsoleKey.RightArrow:
+                    case ConsoleKey.D or ConsoleKey.RightArrow:
                         tryMove(2);
                         break;
-                    case ConsoleKey.LeftArrow:
+                    case ConsoleKey.A or ConsoleKey.LeftArrow:
                         tryMove(4);
                         break;
                 }
