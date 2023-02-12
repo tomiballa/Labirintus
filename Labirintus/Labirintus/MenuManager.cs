@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections;
 using System.IO;
 
@@ -124,13 +124,13 @@ namespace Labirintus
                             items[cpos].callback!();
                         }
                         break;
-                    case ConsoleKey.UpArrow:
+                    case ConsoleKey.W or ConsoleKey.UpArrow:
                         if (cpos > 0) cpos -= 1;
                         break;
-                    case ConsoleKey.DownArrow:
+                    case ConsoleKey.S or ConsoleKey.DownArrow:
                         if (cpos < items.Count) cpos += 1;
                         break;
-                    case ConsoleKey.RightArrow:
+                    case ConsoleKey.D or ConsoleKey.RightArrow:
                         if (items[cpos].type == "selectable")
                         {
                             items[cpos].selected += 1;
@@ -138,7 +138,7 @@ namespace Labirintus
                             items[cpos].selCallback!(items[cpos].selectable![items[cpos].selected]);
                         }
                         break;
-                    case ConsoleKey.LeftArrow:
+                    case ConsoleKey.A or ConsoleKey.LeftArrow:
                         if (items[cpos].type == "selectable")
                         {
                             items[cpos].selected -= 1;
